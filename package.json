@@ -1,0 +1,23 @@
+{
+  "name": "ocr_scanner",
+  "version": "1.0.0",
+  "description": "A really simple OCR Scanner",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "OCR",
+    "Pic2Text",
+    "Image"
+  ],
+  "author": "CuzImPeter",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^4.0.1",
+    "electron-builder": "^21.2.0",
+    "electron-packager": "^13.1.1",
+    "jQuery": "^1.7.4",
+    "tesseract.js": "^2.1.4"
+  }
+}
