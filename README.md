@@ -2,7 +2,7 @@
 A simple Programm which can read the Text from an Image
 
 <h3>Download:</h3>
-<a href="https://github.com/peter12908/OCR_Scanner/releases/download/1.0/ocr_scanner-win32-x64.zip">Windows</a>
+<a href="https://github.com/peter81745/OCR_Scanner/releases/download/1.0/ocr_scanner-win32-x64.zip">Windows</a>
 
 <h3>Build Sourcecode:</h3>
 <hr>
